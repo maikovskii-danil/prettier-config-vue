@@ -1,0 +1,11 @@
+{
+  "name": "@maikovskii-danil/prettier-config-vue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "maikovskii-danil",
+  "type": "module",
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
